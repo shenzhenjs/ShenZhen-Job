@@ -1,2 +1,2 @@
-# sz-it-job
-cd-it-job 针对深圳IT小伙伴们的工作机会（招聘，求职）交流的平台项目。
+# ShenZhen-Job
+ShenZhen-Job 是基于深圳IT小伙伴们（招聘，求职）的交流平台项目。(侧重但不限于PC端开发)
